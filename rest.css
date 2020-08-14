@@ -337,7 +337,7 @@ hr{
 	margin-top: 30px;
 }
 
-@media (max-width: 920px){
+@media (max-width: 1000px){
 	nav{
 		height: auto;
 		flex-direction: column;
@@ -356,13 +356,13 @@ hr{
 		margin-top: 250px;
 	}
 }
-@media (max-width: 920px){
+@media (max-width: 1000px){
 	.image{
 		height: 600px;
 	 width: 100%;
 	}
 }
-@media (max-width: 920px){
+@media (max-width: 1000px){
 	.row{
 		width: 100%;
 		
@@ -376,7 +376,7 @@ hr{
 		margin-bottom: 60px;
 	}
 }
-@media screen (max-width: 920px){
+@media screen (max-width: 1000px){
     .container{
 		flex-wrap: wrap;
 		flex-direction: column;
